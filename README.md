@@ -3,13 +3,6 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lobster&display=swap" rel="stylesheet">
-   <style>
-     hr {
-  background: linear-gradient(to right, #aa076b, #61045f);
-       height:4px;
-  border:solid 0.1px;
-}
-    </style>
 </head>
 <body>
   <h1 style="text-align:center; font-family: 'Lobster', cursive; ">Hello, I'm Siddhartha</h1>
